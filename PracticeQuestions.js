@@ -256,6 +256,8 @@ var user1 = {
 console.log('Problem Eleven');
 console.log(food);
 
+////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////
  
 // 12. Once you have grabbed the favorite foods. Destructure the food array to grab only the first 2 values. //
 
@@ -267,6 +269,8 @@ console.log('Problem Twelve');
 console.log(firstFood); 
 console.log(secondFood); 
 
+////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////
 
 // 13. use object destructuring and the rest operator to transform the following array into 3 variables: name, age, and food. 
 //    the food variable should have all the array items starting from the third one.
@@ -278,6 +282,9 @@ console.log('Problem Thirteen');
 console.log(name); 
 console.log(age); 
 console.log(food2); 
+
+////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////
 
 // 14. use object destructuring to grab the following from the userInfo object: 
 // - The user's name and in a constant named userName.
